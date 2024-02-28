@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 # Fuel Management Setup
 - Install php
 - Install composer
-- Run mysql server on local host, details can be found `.evv`
+- Run mysql server on local host, details can be found `.env`
 - Clone Repo
 - `cd fuel-management`
 - `composer install`
